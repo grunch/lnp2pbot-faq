@@ -8,17 +8,19 @@
 * [Creating your first task](guides/creating-your-first-task.md)
 * [Advanced permissions](guides/advanced-permissions.md)
 
-## Fundamentals
+## FAQ
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [Projects](faq/projects.md)
+* [Members](faq/members.md)
+* [Task Lists](faq/task-lists.md)
+* [Tasks](faq/tasks.md)
 
 ## Use Cases
 
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
+* [FAQ](use-cases/faq/README.md)
+  * [What is LNP2Pbot?](use-cases/faq/what-is-lnp2pbot.md)
+  * [What is Lightning Network?](use-cases/faq/what-is-lightning-network.md)
+* [Page 1](use-cases/page-1.md)
 * [For Engineers](use-cases/for-engineers/README.md)
   * [GitHub Integration](use-cases/for-engineers/github-integration.md)
 * [For Support](use-cases/for-support/README.md)

@@ -50,20 +50,20 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="fundamentals/projects.md" %}
-[projects.md](fundamentals/projects.md)
+{% content-ref url="faq/projects.md" %}
+[projects.md](faq/projects.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/members.md" %}
-[members.md](fundamentals/members.md)
+{% content-ref url="faq/members.md" %}
+[members.md](faq/members.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/task-lists.md" %}
-[task-lists.md](fundamentals/task-lists.md)
+{% content-ref url="faq/task-lists.md" %}
+[task-lists.md](faq/task-lists.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/tasks.md" %}
-[tasks.md](fundamentals/tasks.md)
+{% content-ref url="faq/tasks.md" %}
+[tasks.md](faq/tasks.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
