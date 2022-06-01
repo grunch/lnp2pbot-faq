@@ -50,20 +50,20 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="faq/projects.md" %}
-[projects.md](faq/projects.md)
+{% content-ref url="faq/what-is-lightning-network.md" %}
+[what-is-lightning-network.md](faq/what-is-lightning-network.md)
 {% endcontent-ref %}
 
-{% content-ref url="faq/members.md" %}
-[members.md](faq/members.md)
+{% content-ref url="faq/what-do-i-need-to-use-lnp2pbot.md" %}
+[what-do-i-need-to-use-lnp2pbot.md](faq/what-do-i-need-to-use-lnp2pbot.md)
 {% endcontent-ref %}
 
-{% content-ref url="faq/task-lists.md" %}
-[task-lists.md](faq/task-lists.md)
+{% content-ref url="faq/how-do-i-initialize-the-bot.md" %}
+[how-do-i-initialize-the-bot.md](faq/how-do-i-initialize-the-bot.md)
 {% endcontent-ref %}
 
-{% content-ref url="faq/tasks.md" %}
-[tasks.md](faq/tasks.md)
+{% content-ref url="faq/where-i-can-find-offers-for-my-local-currency.md" %}
+[where-i-can-find-offers-for-my-local-currency.md](faq/where-i-can-find-offers-for-my-local-currency.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

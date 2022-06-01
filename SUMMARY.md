@@ -10,10 +10,10 @@
 
 ## FAQ
 
-* [Projects](faq/projects.md)
-* [Members](faq/members.md)
-* [Task Lists](faq/task-lists.md)
-* [Tasks](faq/tasks.md)
+* [What is Lightning Network?](faq/what-is-lightning-network.md)
+* [What do I need to use LNP2Pbot?](faq/what-do-i-need-to-use-lnp2pbot.md)
+* [How do I initialize the bot?](faq/how-do-i-initialize-the-bot.md)
+* [Where I can find offers for my local currency?](faq/where-i-can-find-offers-for-my-local-currency.md)
 
 ## Use Cases
 
@@ -23,8 +23,7 @@
 * [Page 1](use-cases/page-1.md)
 * [For Engineers](use-cases/for-engineers/README.md)
   * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
+* [For Support](use-cases/for-support.md)
 
 ## Extras
 
