@@ -18,6 +18,20 @@
 * [What are the channels to make exchanges on Telegram?](faq/what-are-the-channels-to-make-exchanges-on-telegram.md)
 * [Do I need to fill out any user registration or identity verification?](faq/do-i-need-to-fill-out-any-user-registration-or-identity-verification.md)
 * [What type of information do you collect from each user?](faq/what-type-of-information-do-you-collect-from-each-user.md)
+* [How does the user reputation system work?](faq/how-does-the-user-reputation-system-work.md)
+* [How do I create a purchase order?](faq/how-do-i-create-a-purchase-order.md)
+* [How do I create a sell order?](faq/how-do-i-create-a-sell-order.md)
+* [How do I find and accept an offer to buy or sell?](faq/how-do-i-find-and-accept-an-offer-to-buy-or-sell.md)
+* [How do I cancel a posted order?](faq/how-do-i-cancel-a-posted-order.md)
+* [Are there minimum or maximum limits on the amounts I can trade?](faq/are-there-minimum-or-maximum-limits-on-the-amounts-i-can-trade.md)
+* [How long does it take to finalize a transaction?](faq/how-long-does-it-take-to-finalize-a-transaction.md)
+* [Fees and commissions](faq/fees-and-commissions.md)
+* [What exchange rate does the bot use?](faq/what-exchange-rate-does-the-bot-use.md)
+* [In which countries is it available?](faq/in-which-countries-is-it-available.md)
+* [Recommended wallets](faq/recommended-wallets.md)
+* [Support](faq/support.md)
+* [Contact with developers](faq/contact-with-developers.md)
+* [I am a developer and I want to contribute](faq/i-am-a-developer-and-i-want-to-contribute.md)
 
 ## Use Cases
 
