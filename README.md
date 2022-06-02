@@ -54,8 +54,8 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 [what-is-lightning-network.md](faq/what-is-lightning-network.md)
 {% endcontent-ref %}
 
-{% content-ref url="faq/what-do-i-need-to-use-lnp2pbot.md" %}
-[what-do-i-need-to-use-lnp2pbot.md](faq/what-do-i-need-to-use-lnp2pbot.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="faq/how-do-i-initialize-the-bot.md" %}
