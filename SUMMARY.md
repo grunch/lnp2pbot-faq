@@ -1,19 +1,13 @@
 # Table of contents
 
 * [What is @lnp2pBot?](README.md)
-
-## Guides
-
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [What is Lightning Network?](what-is-lightning-network.md)
 
 ## FAQ
 
-* [What is Lightning Network?](faq/what-is-lightning-network.md)
 * [How do I initialize the bot?](faq/how-do-i-initialize-the-bot.md)
 * [Where I can find offers for my local currency?](faq/where-i-can-find-offers-for-my-local-currency.md)
-* [What do I need to use LNP2Pbot?](faq/what-do-i-need-to-use-lnp2pbot.md)
+* [What do I need to use @lnp2pbot?](faq/what-do-i-need-to-use-lnp2pbot.md)
 * [How do I initialize the bot?](faq/how-do-i-initialize-the-bot-1.md)
 * [What are the channels to make exchanges on Telegram?](faq/what-are-the-channels-to-make-exchanges-on-telegram.md)
 * [Do I need to fill out any user registration or identity verification?](faq/do-i-need-to-fill-out-any-user-registration-or-identity-verification.md)
