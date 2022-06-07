@@ -1,6 +1,6 @@
 # In which countries is it available?
 
-Being a P2P exchange on Telegram, it is technically available to everyone who has the app. However, so far the bot interacts with a list of 58 currencies with which you can create buy/sell orders.&#x20;
+Being a P2P exchange on Telegram, it is technically available to everyone who has the app. However, so far the bot interacts with a list of 58 currencies with which you can create `buy/sell` orders.&#x20;
 
 Here we present you the list of currencies:
 
