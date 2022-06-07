@@ -31,13 +31,3 @@
 
 * [Communities](use-cases/communities/README.md)
   * [What is LNP2Pbot?](use-cases/communities/what-is-lnp2pbot.md)
-  * [What is Lightning Network?](use-cases/communities/what-is-lightning-network.md)
-* [Page 2](use-cases/page-2.md)
-* [Page 1](use-cases/page-1.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support.md)
-
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
