@@ -1,7 +1,7 @@
 # Table of contents
 
 * [What is @lnp2pBot?](README.md)
-* [What is Lightning Network?](what-is-lightning-network.md)
+* [What is Lightning Network?](faq/what-is-lightning-network.md)
 
 ## FAQ
 
